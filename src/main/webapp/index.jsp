@@ -1,12 +1,21 @@
 <html>
+<head>
+<style>
+  body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+  }
+  h2 {
+    text-align: center;
+    line-height: 1.6; /* Adjust this value if you want more or less spacing */
+    color: blue; /* Set text color to blue */
+  }
+</style>
+</head>
 <body>
-<h1><font color='red'> Welcome to neeltechjunction <font></h1>
-
-<a href="www.youtube.com/@neeltechjunction">Click Here To See neeltechjunction youtube videos</a>
-  
-  <h2> Call Us : + 9663656187</h2>
-  
-  <h3> Ofc Location : Bengaluru, Karntaka </h3>
-
+<h2>Congratulations (*-*)<br><br>You deployed simple static web-application successfully :)</h2>
 </body>
 </html>
